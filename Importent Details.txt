@@ -1,0 +1,201 @@
+Access Request Entry 
+https://wf5.myhcl.com/ReleaseAutomation/pages/AdminEntry.aspx
+
+CR/PT For Quality Singh off
+https://wf13.myhcl.com/sites/bprdba/Lists/Release%20List/AllItems.aspx
+
+Hi Team,
+I have uploaded RCL and all the approvals on file server to process PT06894043.
+Please review and provide quality signoff.
+
+File Server for half year Review->2022
+https://fileserver.hcl.com/sites/eisquality
+
+https://fileserver.hcl.com/sites/eisquality/Half%20yearly%20Review/2022/Operational%20Critical%20Applications
+
+Dast Scan:
+https://leap.hcl.com/apps/secure/org/app/144bc18e-bbea-487d-87ec-52907e2a4c44/launch/index.html?form=F_AppDash&formTab=appinv
+
+SAST Scan
+https://cloud.appscan.com/
+
+Production Server IP
+10.98.101.95, 10.98.101.98
+
+QA Code Server
+\\10.98.10.4
+QA Sever path:-
+\\HCLT-PC3168-1\IBCMWebService
+DBA Request Linq:-
+https://wf13.myhcl.com/sites/BPRDBA/Lists/Comdox/AllItems.aspx
+
+use IBCM_QA
+ALTER TABLE MST_ProcessMaster
+ADD [ProcessArea] varchar(20);
+
+ALTER TABLE MST_ProcessMaster
+ADD [ControllerName] varchar(50);
+
+ALTER TABLE MST_ProcessMaster
+ADD [ActionName] varchar(50);
+
+Strap VD Access:-
+QA Server IP :10.98.10.4/strapui
+VD Names : strapui,STRAPWebApi
+Staging Url For STRAP:-
+https://staging.myhcl.com/STRAPAngularApp/#/login
+https://qa1.myhcl.com/STRAPAngularApp/#/login
+https://myersuat.hcl.com/ERS/STRAP/DevAIS/#/login
+Bug URL:-
+INSERT INTO IBCM_QA.dbo.MST_ParameterMaster
+SELECT * FROM IBCM_DEV.dbo.MST_ParameterMaster WHERE CODE IN('RAAM','RARM','RAUM','HLOGO','HMON','HURL') 
+
+https://myersuat.hcl.com/ers/strap/development/bugs/bugs.aspx
+username: madhavi
+password:madhavi
+
+Admin UserId Password of local machine:-
+.\itdtpadmin
+india@12
+.\itdtpadmin    
+9ER/.zEqpK
+
+VPN Details:-
+myvpn-in1.hcl.com
+myvpn-in2.hcl.com
+
+Production Code LInks:-
+\\10.98.101.95\IBCM[PT06840892]
+\\10.98.101.98\IBCM[PT06840892]
+\\10.98.100.108\IBCMAdjustmentScheduler[PT06840892]
+
+Production DB:- 10.98.13.221,1928\IBCM(DBO)
+
+Production SQL URL:-
+runas /user:hcltech\lalit-singh "C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\ssms.exe
+Production Url:
+https://wf24.myhcl.com/IBCM/
+
+QA Url:-
+https://qa1.myhcl.com/IBCM/login/login?masterlogin=y
+
+Web Service QA :
+https://qa1.myhcl.com/IBCMWebService/IBCMResponseService.asmx?WSDL
+USer Name:IBCMUser
+Password:IBCMUser#1234
+
+Web Service Production :
+https://wf34.myhcl.com/IBCMWebService/IBCMResponseService.asmx?WSDL
+USer Name:IBCMUser
+Password:IBCMUser@1234
+AK1BL2CM3ZDN4YEO5XFP6WGQ7HR8VIS9UJT0
+//string Key = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+<add key="UserName" value="IBCMUser"/>
+<add key="Password" value="IBCMUser#123"/>
+
+Hi Team,
+
+Please follow the below steps to encrypt the web config file on production server.
+
+VD Name : IBCM
+Server IP : 10.98.10.4
+
+Step 1 : Please take the backup of \\10.98.10.4\IBCM\web.config before any change on QA server.
+
+
+Step 2:-
+
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+-->Note: Here Version (v4.0.30319) also Depend on Application version C drive Path.
+
+aspnet_regiis -pc "IBCMKeys" -exp
+aspnet_regiis -pa "IBCMKeys" "IIS APPPOOL\IBCM"
+aspnet_regiis -pe "system.web/identity" -app "/IBCM" -prov "IBCMProvider"
+aspnet_regiis -pe "appSettings" -app "/IBCM" -prov "IBCMProvider"?
+
+
+Production Grant access for me:-
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P012', N'Y', CAST(N'2020-05-09T16:08:56.200' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P013', N'Y', CAST(N'2020-08-12T10:45:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P014', N'Y', CAST(N'2020-08-12T13:13:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P015', N'Y', CAST(N'2020-08-13T13:13:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P016', N'Y', CAST(N'2020-08-13T13:13:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P017', N'Y', CAST(N'2020-08-13T18:13:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P018', N'Y', CAST(N'2020-08-13T18:13:56.200' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P021', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, N'Y')
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P022', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, N'Y')
+GO
+----
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P001', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P002', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P003', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P004', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P007', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL, NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P009', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL,NULL)
+GO
+INSERT [dbo].[TRN_AccessMapping] ( [LoginCode], [RoleCode], [ProcessCode], [Active], [AccessDate], [ApprovedBy], [AttachedMailApproval], [IsAdjustment]) VALUES ( N'51863107', N'CTRL', N'P010', N'Y', CAST(N'2020-09-21T16:42:43.277' AS DateTime), N'Developer', NULL,NULL)
+GO
+
+Remove Error Log:-
+Delete FROM TRN_ErrorLog where ROWID in(11183,11186,11185,11181,11180,11187)
+Remove User:-
+DELETE FROM TRN_AccessMapping where LoginCode in(51935819,51863107)
+
+
+  
+/*  
+Created By – abc;               Created on –   
+Last Updated By –               Last Updated on –   
+Description – Get Header Details.  
+ChangeSet – PT No./CR No.  
+*/  
+  
+   
+/*EXEC  [dbo].[USP_GetHeaderDetails]  */  
+  
+Alter PROC [dbo].[USP_GetHeaderDetails]  
+(  
+  
+ @LoginCode VARCHAR(8)  
+  
+)  
+AS  
+  
+BEGIN  
+  
+  
+SET NOCOUNT ON  
+-- Extracting My HCL Favorite Link Set by user  
+SELECT '' as DisplayOrder, ''as ApplicationName,''as URL  
+--FROM SAPDB.DBO.MyHCL_FavoriteApps WITH(NOLOCK)  
+--WHERE EmployeeID = @LoginCode AND IsQuickLink = 'N' AND IsActive = 'Y'  
+--GROUP BY DisplayOrder,  
+ --ApplicationName, URL  
+--ORDER BY DisplayOrder  
+  
+-- Extracting My HCL Qucik Links  
+SELECT '' as DisplayOrder, ''as ApplicationName,''as URL  
+--FROM SAPDB.DBO.MyHCL_FavoriteApps WITH(NOLOCK)  
+--WHERE IsQuickLink = 'Y' AND IsActive = 'Y'  
+--GROUP BY DisplayOrder, ApplicationName, URL  
+--ORDER BY DisplayOrder  
+  
+SET NOCOUNT OFF  
+  
+END  
+  
+  
+  
