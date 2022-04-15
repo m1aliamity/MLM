@@ -73,6 +73,7 @@ Production DB:- 10.98.13.221,1928\IBCM(DBO)
 
 Production SQL URL:-
 runas /user:hcltech\lalit-singh "C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\ssms.exe
+runas /user:hcltech\bichitra.gahan@hcl.com "C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\ssms.exe
 Production Url:
 https://wf24.myhcl.com/IBCM/
 
@@ -195,7 +196,7 @@ SELECT '' as DisplayOrder, ''as ApplicationName,''as URL
   
 SET NOCOUNT OFF  
   
-END  
+END
   
   
   

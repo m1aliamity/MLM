@@ -1,0 +1,67 @@
+DBA Request URL:-
+https://wf13.myhcl.com/sites/BPRDBA/Lists/Comdox/AllItems.aspx
+
+Request to Decrypt IBCM Application WebConfig On QA Server
+Hi Team,
+Please decrypt the web config file on IBCM QA Server.
+VD Name : IBCM
+Server Ips : 10.98.10.4  
+Run below command:
+aspnet_regiis -pd "appSettings" -app "/IBCM"
+aspnet_regiis -pd "connectionStrings" -app "/IBCM"
+aspnet_regiis -pd "system.web/identity" -app "/IBCM"
+
+Request to Encrypt Web confiq file on IBCM Production server.
+Hi Team,
+Please follow the below steps to encrypt the web config file on production server.
+VD Name : IBCM
+Server IP : 10.98.101.95
+Server IP : 10.98.101.98
+Step 1 : Please take the backup of 10.98.101.95, ?10.98.101.98?\IBCM\web.config before any change on Production server?.
+Step 2:-
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+-->Note: Here Version (v4.0.30319) also Depend on Application version C drive Path.
+aspnet_regiis -pc "IBCMKeys" -exp
+aspnet_regiis -pa "IBCMKeys" "IIS APPPOOL\IBCM"
+aspnet_regiis -pe "system.web/identity" -app "/IBCM" -prov "IBCMProvider"
+aspnet_regiis -pe "appSettings" -app "/IBCM" -prov "IBCMProvider"??
+
+Request to provide Read/Write Access Permission on the IBCM database
+Hi Team,
+Please provide the read and write access permission to
+below mentioned users on the IBCM database.
+Database Server : N-HCLT-BPRDV25\SQLSERVER
+Database Name : IBCM
+Schema Name : dbo
+IBCM Database Table : MST_AdjustFinancialActualData
+User Names:
+BWUSER,
+HCLTECH\EDSSAPBODS,
+HCLTECH\ramesh.murugan​
+
+Request to Provide Read Only Access Of SAPDB database on production server
+Hi Team,​​
+
+Request to provide the read-only access of SAPDB database on production server.
+Database Name : SAPDB
+Database Object: SAPDB.DBO.MyHCL_FavoriteApps, 
+Server IP : 10.98.13.221,1928
+gMSA User :​​IBCMUser_Prod​
+
+DB owner approval attached with this request​
+
+
+Mahesh baba Approval.
+Request to Provide Read Only Access Of SAPDB on production server for gMSA User
+Hi Mahesh,
+ 
+Request to provide the read only access of SAPDB database on production server as below objects.
+
+Database Name : SAPDB
+Object Name: SAPDB.DBO.MyHCL_FavoriteApps
+Server IP : 10.98.13.221,1928
+gMSA User : IBCMUser_Prod
+
+Thanks & Regards
+Musharraf Ali
+
