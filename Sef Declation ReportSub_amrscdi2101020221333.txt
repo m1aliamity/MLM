@@ -1,0 +1,270 @@
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   1                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+    1        412  MUNNAWWARPUR                  1 SHARMA DEVI               GULAB SINGH              
+    2                                           5 SARVESH DEVI              INDRAPAL SINGH           
+    3                                          15 VANDANA CHAUHAN           MAHESH SINGH             
+    4                                          25 PUNAM DEVI                LOKESH SINGH             
+    5                                    70401004 HARKESH                   TULSHI SINGH             
+    6                                    70401006 SAVITA                    KHOOB SINGH              
+    7                                    70401007 PRAVEEN                   MANGAL SINGH             
+    8                                    70401008 PRAKASHVEER SINGH         JAI SINGH                
+    9                                    70401009 KRIPAL SINGH              SHOBHA SINGH             
+   10                                    70401010 RAMESH                    SIPAHI                   
+   11                                    70401020 BALVEER                   SIPAHI                   
+   12                                    70401021 SURESH                    MALKHAN                  
+   13                                    70401022 ASHOK                     MALKHAN                  
+   14                                    70401023 SHISHPAL                  MALKHAN                  
+   15                                    70401025 MADAN SINGH               MUNSHI SINGH             
+   16                                    70401026 RAKESH                    SHIVNARAYAN              
+   17                                    70401028 SHOORVEER SINGH           HARIRAM SINGH            
+   18                                    70401030 NARDEV                    RAMPRASAD                
+   19                                    70401031 KUBRE SINGH               RAMPRASAD                
+   20                                    70401039 MITAN SINGH               CHHOTE SINGH             
+   21                                    70401045 MUNEEM                    PRASADI                  
+   22                                    70401047 JAI SINGH                 MANGAL SINGH             
+   23                                    70401051 HARIRAM                   UMRAO SINGH              
+   24                                    70401054 RAMKUMAR                  INDAR SINGH              
+   25                                    70401062 RAMVEER SINGH             HARI SINGH               
+   26                                    70401063 BHOPAL SINGH              SHOBHA SINGH             
+   27                                    70401077 KRISHANVEER               HARI SINGH               
+   28                                    70401078 DHRAMVEER SINGH           BHUKAAN SINGH            
+   29                                    70401081 HARSWROOP SINGH           NARENDER SINGH           
+   30                                    70401083 SURENDRA SINGH            MUNSHI SINGH             
+   31                                    70401085 OMPAL                     SHIV CHRAN               
+   32                                    70401087 KRISHNA DEVI              HARIRAM                  
+   33                                    70401088 LAL BAHADUR               HARI RAM SINGH           
+   34                                    70401093 DHRAMPAL                  ROOP SINGH               
+   35                                    70401096 NARESH                    PRATIT                   
+   36                                    70401098 HOMVEER SINGH             HARI SINGH               
+   37                                    70401099 NOUBHAR SINGH             HARCHRAN SINGH           
+   38                                    70401100 OMPAL                     MALKHAN                  
+   39                                    70401101 RANVEER SINGH             KISHORI SINGH            
+   40                                    70401104 RAMCHRAN SINGH            HARDEV                   
+   41                                    70401109 JAI SINGH                 KALLUHARSWROOP           
+   42                                    70401111 NETRAM                    HJARI                    
+   43                                    70401114 PRATAP SINGH              SHIVCHRAN                
+   44                                    70401118 KISHORI                   KIDDA SINGH              
+   45                                    70401123 NARESH                    GHANSHYAM SINGH          
+   46                                    70401127 THAMMAN SINGH             RAMKUMAR SINGH           
+   47                                    70401128 CHANDRA SHEKHAR           RAMKUMAR SINGH           
+   48                                    70401133 SUMITRA                   KRIPAL SINGH             
+   49                                    70401134 MITLESH                   PRAVEEN SINGH            
+   50                                    70401138 KRIPA DEVI                RAMPRASAD                
+   51                                    70401144 SMT.RAMKALI               NARAYAN SINGH            
+   52                                    70401145 BHOOPENDRA                KSHETRPAL                
+   53                                    70401150 CHANDRA SHEKHAR           KSHETARPAL SINGH         
+   54                                    70401151 AVDHESH                   PRAVEEN SINGH            
+   55                                    70401156 SATVEER                   KALLU SINGH              
+   56                                    70401157 NEMPAL SINGH              KALLU SINGH              
+   57                                    70401158 RAMDULARI                 KISHORI SINGH            
+   58                                    70401159 UDAYVEER SINGH            KISHORI SINGH            
+   59                                    70401160 SOMPAL                    RAMCHRAN                 
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   2                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+   60                                    70401161 SHISHPAL                  RAMCHRAN                 
+   61                                    70401162 VIJAY SINGH               RAMCHRAN                 
+   62                                    70401164 KAMLESH                   HARPAL SINGH             
+   63                                    70401169 MAHIPAL                   RAMCHANDRA               
+   64                                    70401170 VIKASH                    ARVIND                   
+   65                                    70401172 DYAWATI                   OMPAL SINGH              
+   66                                    70401173 SUSHMA DEVI               SURESH                   
+   67                                    70401175 MANJOOLATA                SHISHPAL                 
+   68                                    70401176 BALA DEVI                 DINESH                   
+   69                                    70401178 RAKESH SINGH              HARSWROOP SINGH          
+   70                                    70401179 MANOJ KUMAR               HARSWROOP SINGH          
+   71                                    70401184 GAJRAM                    KALLUHARSWROOP           
+   72                                    70401185 MUKESH KUMAR              HARSWROOP SINGH          
+   73                                    70401190 SUDHA DEVI                OMPRAKASH                
+   74                                    70401195 GYANVEER SINGH            KISHORI SINGH            
+   75                                    70401201 BALJEET SINGH             HJARI SINGH              
+   76                                    70401202 YOGESH KUMAR              RAMCHRAN SINGH           
+   77                                    70401204 TIRMAL SINGH              MISHRI SINGH             
+   78                                    70401205 SHODHYAN SINGH            MATUR SINGH              
+   79                                    70401211 SANJAY KUMAR              PRAVEEN SINGH            
+   80                                    70401212 CHATERPAL                 MANGAL SINGH             
+   81                                    70401213 ARJUN SINGH               KRIPAL SINGH             
+   82                                    70401214 RAVI KUMAR SHARDA         RAGHUVEER SHARDA         
+   83                                    70401215 KALYAN SINGH              MATRU SINGH              
+   84                                    70401216 KRISHANVEER SINGH         NARAYAN SINGH            
+   85                                    70401217 RAJENDRA SINGH            GHASITA SINGH            
+   86                                    70401218 SAMARPAL SINGH            BHARAT SINGH             
+   87                                    70401219 RAMWATI DEVI              BHARAT SINGH             
+   88                                    70401220 GOPAL                     DULLI                    
+   89                                    70401221 KHACHERU                  DULLI                    
+   90                                    70401222 BREHAM SWEROOP            DULLI                    
+   91                                    70401224 RAKESH SINGH              INDER SINGH              
+   92                                    70401231 OM SINGH                  MURARI SINGH             
+   93                                    70401233 MAHENDRA SINGH            MATOORI URF RAMCHANDRA   
+   94                                    70401236 KAMLA DEVI                RAMCHRAN                 
+   95                                    70401237 VIPIN KUMAR               PRAVEEN SINGH            
+   96                                    70401241 GENDA                     TEJPAL                   
+   97                                    70401242 PRASHANT                  KSHETRAPAL               
+   98                                    70401243 VIRESH KUMAR              RAMCHANDRA               
+   99                                    70401245 VEERWATI                  ASHERAM                  
+  100                                    70401248 SARVAN SINGH              JAI SINGH                
+  101                                    70401252 RAJARAM                   NARAYAN SINGH            
+  102                                    70401254 ISVAR DHAYAL SINGH        NARAYAN SINGH            
+  103                                    70401255 BABU SINGH                KESARI SINGH             
+  104                                    70401256 SANTOSH DEVI              HEMRAJ SINGH             
+  105                                    70401257 JAIPRAKASH                BHARAT SINGH             
+  106                                    70401258 VEDPRAKASH                BHARAT SINGH             
+  107                                    70401259 KAMLESH                   LALBHUDER                
+  108                                    70401262 BHAGVIR                   KISORI                   
+  109                                    70401263 PRASENT KUMAR             OMPRAKESH                
+  110                                    70401264 RANU                      AVDESH                   
+  111                                    70401265 ANITA DEVI                SANJAY SINGH             
+  112                                    70401266 GUDDI                     BHUPANDER                
+  113                                    70401267 INDERPAL                  RAMCHANDER               
+  114                                    70401273 VINIT                     DINESH                   
+  115                                    70401274 JAGDISH                   DINESH                   
+  116                                    70401275 NAVNEET                   DINESH                   
+  117                                    70401276 PRAMOD KUMAR              RAM KUMAR                
+  118                                    70401278 KRANTI DEVI               RAM KUMAR                
+  119                                    70401279 JAYVEER SINGH             HIMMAT SINGH             
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   3                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+  120                                    70401280 AJAYVEER SINGH            HIMMAT SINGH             
+  121                                    70401281 PAWAN KUMAR               HIMMAT SINGH             
+  122                                    70401282 VIMLA DEVI                HIMMAT SINGH             
+  123                                    70401291 ASHA DEVI                 GENDA SINGH              
+  124                                    70401296 CHARAN DEI                MURARI SINGH             
+  125                                    70401297 RAJVEER SINGH             OMPRAKASH                
+  126                                    70401301 MUNNI DEVI                BEGRAM SINGH             
+  127                                    70401303 KUMARI JYOTI              BEGRAJ SINGH             
+  128                                    70401304 PARVINDRA SINGH           BEGRAJ SINGH             
+  129                                    70401305 SANTOSH DEVI              RAJENDRA SINGH           
+  130                                    70401307 SRIMATI RAMA DEVI         NEMPAL SINGH             
+  131                                    70401310 PRAVESH DEVI              HOMVEER SINGH            
+  132                                    70401311 PRAMOD DEVI               KRISHANVEER SINGH        
+  133                                    70401339 AJAB SINGH                KEHAR SINGH              
+  134                                    70401340 VEER SINGH                KEHAR SINGH              
+  135                                    70401413 ANJU DEVI                 CHANDRASHEKHAR           
+  136                                    70401414 VASHUKA KUMAR             DINESH KUMAR             
+  137                                    70401416 PREMLATA                  VIPIN KUMAR              
+  138                                    70401417 RISHAV RAJPOOT            VIPIN KUMAR              
+  139                                    70401418 YASH CHOUHAN              SANJAY KUMAR             
+  140                                    70401419 VIKANSHU CHAUHAN          AVDESH KUMAR             
+  141                                    70401420 RAJEEV KUMAR              DHARAMPAL SINGH          
+  142                                    70401421 RAHUL KUMAR               DHARAMPAL SINGH          
+  143                                    70401424 GAJRODEVI                 CHADRAPRAKASH            
+  144                                    70401425 SUDHA DEVI                NARESH SINGH             
+  145                                    70401426 SUMEET KUMAR              DINESH KUMAR             
+  146                                    70401437 VINEET KUMAR              CHANDRAPRAKASH           
+  147                                    70401438 SWATI                     CHANDRAPRAKASH           
+  148                                    73907194 NITIN KUMAR               RAJ PAL SINGH            
+  149                                    73907195 VIKASH KUMAR              RAJ PAL SINGH            
+  150                                    73907196 SANGITA KUMARI            RAJ PAL SINGH            
+  151                                    73907198 KIRAN                     BALWANT SINGH            
+  152                                    73907199 RAHUL KUMAR               BALWANT SINGH            
+  153                                    73907200 SURENDRA SINGH            BALWANT SINGH            
+  154                                    73907202 YOGENDRA SINGH            SANTOSH KUMAR            
+  155                                    73907205 GEETA DEVI                PANKAJ KUMAR             
+  156                                    73907206 MINAXI                    VAROON                   
+  157                                    73907213 JAIKAB KUMAR              YASPAL SINGH             
+  158                                    73907214 KESHAB KUMAR              YASPAL SINGH             
+  159                                    73907216 KAVITA                    RAVINDRA SINGH           
+  160                                    73907321 SHARITA                   SHER SINGH               
+  161                                    73907322 SEJAL                     SHER SINGH               
+  162                                    73907323 JAY CHAUHAN               SHER SINGH               
+  163                                    77021743 LEELA WATI                BALWANT SINGH            
+  164                                    77023884 RAVINDRA KUMAR            PARAM SINGH              
+  165                                    77024234 RAKESH                    OMPRAKASH                
+  166                                    77024235 VIJAYPAL                  OMPRAKASH                
+  167                                    77024236 BABLI                     ARJUN                    
+  168                                    77024237 PUSPA DEVI                MADAN                    
+  169                                    77024239 PUSPA DEVI                DHARAMVEER SINGH         
+  170                                    77024391 MITLESH DEVI              DEVENDRA SINGH           
+  171                                    77024392 LAVI KUMAR                DEVENDRA SINGH           
+  172                                    77024393 VIVEEK CHOUHAN            DEVENDRA SINGH           
+  173                                    77024479 HEM LATA DEVI             HARPAL SINGH             
+  174                                    77024480 NISU                      HARPAL SINGH             
+  175                                    77024487 SATIS KUMAR               HARPAL SINGH             
+  176                                    77024488 NIPENDRA SINGH            HARPAL SINGH             
+  177                                    77024489 BRIJVEER SINGH            VIRENDRA SINGH           
+  178                                    77024490 VISHAL KUMAR              VIRENDRA SINGH           
+  179                                    77024491 MUNNI DEVI                VIRENDRA SINGH           
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   4                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+  180                                    77024516 NIRBALA DEVI              PRASHANT KUMAR           
+  181                                    77024517 AMAN CHAUHAN              BHUPENDRA SINGH          
+  182                                    77024518 HARSH CHAUHAN             CHANDRA SHEKHAR          
+  183                                    77024519 NIRBHAY SINGH             PRASHANT KUMAR           
+  184                                    77024543 VISHAL CHAUHAN            HARPAL SINGH             
+  185                                    77024544 NEHA CHAUHAN              HARPAL SINGH             
+  186                                    77024556 VIPUL KUMAR               LAL BAHADUR SINGH        
+  187                                    77024557 PRIYANKA RANA             ARUN KUMAR               
+  188                                    77557430 PUSPA                     RAJ PAL SINGH            
+  189                                    77557460 OM SINGH                  KHEM SINGH               
+  190                                    77557461 CHETRAM SINGH             KHEM SINGH               
+  191                                    77557710 BALRAJ SINGH              DEVRAJ SINGH             
+  192                                    77557711 GIRIRAJ SINGH             DEVRAJ SINGH             
+  193                                    77557712 CHETRAM SINGH             DEVRAJ SINGH             
+  194                                    77557713 SHEESHPAL SINGH           DEVRAJ SINGH             
+  195                                    77557714 HUKAM SINGH               SURENDRA SINGH           
+  196                                    77557718 BEENA                     SHRAVAN KUMAR            
+  197                                    77557719 REKHA DEVI                PRAKASH VEER             
+  198                                    77557764 ANUJ KUMAR                RAMKUVAR                 
+  199                                    77557765 RAJAN KUMAR               OMVEER SINGH             
+  200                                    77558240 SUMAN DEVI                DINESH                   
+  201                                    77558246 NEHA DEVI                 KAMAL SINGH              
+  202                                    77558247 AMITA RANI                RAJVEER SINGH            
+  203                                    77558249 SATENDRA KUMAR            ASHOK KUMAR              
+  204                                    77558250 LOKESH KUMAR              OM SINGH                 
+  205                                    77558333 REKHA RANI                VEER SINGH               
+  206                                    77558365 LAXMI DEVI                MANOJ KUMAR              
+  207                                    77558400 MUKESH KUMAR              INDER SINGH              
+  208                                    77558433 MUKUL KUMAR               ASHOK KUMAR              
+  209                                    77558441 URMILA DEVI               OMVEER SINGH             
+  210                                    77558443 KIRANPAL                  TOTA RAM                 
+  211                                    77558700 CHATRAPAL SINGH           RAGHUNATH                
+  212                                    77558701 MADAN                     RAGHUNATH                
+  213                                    77559099 HARSH CHAUHAN             DHARMENDRA SINGH         
+  214                                    77559100 DHARMENDRA SINGH          JAYPAL SINGH             
+  215                                    77559103 ANITA DEVI                BAHADUR SINGH            
+  216                                    77559107 RAJEV KUMAR               HARPAL SINGH             
+  217                                    77559108 PANKAJ KUMAR              HARPAL SINGH             
+  218                                    77559109 RAJESHWARI                HARPAL SINGH             
+  219                                    77559110 SANJAY KUMAR              HARPAL SINGH             
+  220                                    77559115 NIPENDRA SINGH            MAHENDRA SINGH           
+  221                                    77559121 KHUB SINGH                HARKESH                  
+  222                                    77559122 NIRDOSH KUMAR             RAM CHARAN               
+  223                                    77559123 VED PRAKAS                PRASADI                  
+  224                                    77559126 BHASSU                    GHASITA                  
+  225                                    77559436 GAURAV KUMAR              GAJRAM                   
+  226                                    77559437 VIKASH KUMAR              MUKESH KUMAR             
+  227                                    77559438 MOHIT KUMAR               MUKESH KUMAR             
+  228                                    77559444 VIMLA DEVI                HARSWAROOP               
+  229                                    77559539 SACHIN KUMAR              KHAJAN SINGH             
+  230                                    77559540 ANUJ KUMAR VATSAL         KHAJAN SINGH             
+  231                                    77559613 ANUJ KUMAR                NARESH KUMAR             
+  232                                    77559614 YANK CHAUHAN              NARESH KUMAR             
+  233                                    77559615 HARDIK CHAUHAN            ARUN KUMAR               
+==============================================================================================================
+TOTAL VILLAGE WISE GROWER COUNT: 233     
+==============================================================================================================
+TOTAL       COUNT: 233     
+==============================================================================================================

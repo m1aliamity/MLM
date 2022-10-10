@@ -1,0 +1,26 @@
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   1                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+    1      75302  MODIPATTI                    12 HARIRAJ SINGH             NATTHU SINGH             
+    2                                          13 NANHE SINGH               MAKHAN SINGH             
+    3                                          18 RAMKISHAN                 KUDHE SINGH              
+    4                                          24 PARVEEN KUMAR             ROOPA                    
+    5                                          25 SUDHA                     HARIRAJ SINGH            
+    6                                          28 RAMESH                    KASHIRAM                 
+    7                                          29 NARESH                    KASHIRAM SINGH           
+    8                                    77022264 KAMAL SINGH               BHRAMCHAND               
+    9                                    77022265 SHISPAL SINGH             BHRAMCHAND               
+   10                                    77022271 JAMNA DEVI                BHARAT SINGH             
+   11                                    77022282 KULDEEP                   BHARAT SINGH             
+   12                                    77022321 KAPIL KUMAR               SHER SINGH               
+   13                                    77022328 KAMLA DEVI                BRAHM DUTT               
+==============================================================================================================
+TOTAL VILLAGE WISE GROWER COUNT: 13      
+==============================================================================================================
+TOTAL       COUNT: 13      
+==============================================================================================================
