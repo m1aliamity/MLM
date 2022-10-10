@@ -1,0 +1,189 @@
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   1                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+    1      75101  PAIGAMBARPUR                  3 RAJEEV                    CHANDRAPAL               
+    2                                           4 SATYPAL SINGH             CHANDRAPAL SINGH         
+    3                                           6 SATVEER SINGH             RAGHUNATH SINGH          
+    4                                           7 IMART                     TEJRAM SINGH             
+    5                                           8 TRILOK SINGH              RAMCHARAN SINGH          
+    6                                          10 KHARAK SINGH              TOTARAM                  
+    7                                          13 AASHISH KUMAR             RAMSWAROOP               
+    8                                          14 UMA DEVI                  MADAN                    
+    9                                          15 RAMESH                    JAGRAM                   
+   10                                          16 NARESH SINGH              JAGRAM SINGH             
+   11                                          18 SATVEERI DEVI             ATAR SINGH               
+   12                                          21 RAJEEV SINGH              SHYAM SINGH              
+   13                                          22 FURKAN                    MUNAWWAR                 
+   14                                          23 HASRAT JAHA               ISLAM                    
+   15                                          24 ISLAM                     MEHBOOB                  
+   16                                          25 KHALIDA                   FURKAN                   
+   17                                          26 KAPIL KUMAR               RAMSWAROOP               
+   18                                          27 VANSH                     SANDEEP KUMAR            
+   19                                          30 PUKHRAJ                   HARKESH                  
+   20                                          35 RAFEEK                    SIPAHI                   
+   21                                          36 HAMSHERA                  SHAHID HASAN             
+   22                                          37 SALMAN KHAN               SHARAFAT ALI             
+   23                                          38 RIZWAN KHAN               SHARAFAT ALI             
+   24                                          42 SHAHBUDDIN                BHURE KHAN               
+   25                                          44 KAMIL AHMAD               SAKHAWAT                 
+   26                                          54 AAFTAB                    BUNDU                    
+   27                                          55 SHARUKH KHAN              BUNDU                    
+   28                                          58 DEVENDRA SHARMA           NARESH KUMAR SHARMA      
+   29                                          59 SARLESH SHARMA            NARESH KUMAR SHARMA      
+   30                                          60 RAMKUAMR                  NATTHU SINGH             
+   31                                          68 CHNDRA PAL                UMRAV SHARMA             
+   32                                          72 RAJESH                    HORI SINGH               
+   33                                          73 BHARATI                   JAGDISH                  
+   34                                          76 MAHIPAL                   HARSWROOP SINGH          
+   35                                          77 YASHVEER SINGH            HARSWROOP SINGH          
+   36                                          85 BHUDEV                    RAGHUNATH SINGH          
+   37                                          87 BHUPENDAR                 PURAN SINGH              
+   38                                          90 BAGRAM SINGH              SUKWA SINGH              
+   39                                          92 DHARAMVEER                NATTHU                   
+   40                                         101 SHOVINDRI                 BRAJPAL SINGH            
+   41                                         103 KOMAL                     SEETA RAM                
+   42                                         104 MOJAN                     HABEB                    
+   43                                         106 CHANDR PAL                NATHU                    
+   44                                         107 ATER SINGH                PUREN SINGH              
+   45                                         108 VIJAY PAL                 NIHAL                    
+   46                                         109 YAKUB                     HUSAHNI                  
+   47                                         110 YAMEEN                    AVASHSE                  
+   48                                         114 AMAR SINGH                MAN SINGH                
+   49                                         117 HARPAL SINGH              MUKHRAM SINGH            
+   50                                         118 BALRAM                    MUKHRAM                  
+   51                                         120 RAJESH                    DURGA                    
+   52                                         124 BRAJPAL SINGH             RAM KUWAR                
+   53                                         125 PREAMPAL                  RAMKUWAR                 
+   54                                         127 NONIHAL SINGH             BIHARI SINGH             
+   55                                         132 YASH PAL                  PREM SINGH               
+   56                                         134 CHATTAR PAL               HORI                     
+   57                                         138 TULLAN                    FATUVA                   
+   58                                         139 SATYAVATI                 RAJPAL SINGH             
+   59                                         141 CHANDERPAL SINGH          HARSWAROOP SINGH         
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   2                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+   60                                         148 KARAN SINGH               BHAGVANA                 
+   61                                         149 AYYUB ALI                 BUNDU KHAN               
+   62                                         151 SURENDRA SINGH            GANESH SINGH             
+   63                                         152 SAROJ DEVI                RAM SINGH                
+   64                                         156 NEERAJ KUMAR              RAM SINGH                
+   65                                         157 ARUN KUMAR                RAM SINGH                
+   66                                         160 KUSUM DEVI                OMPRAKASH                
+   67                                         161 ANKIT KUMAR               GAJENDRA SINGH           
+   68                                         162 SHUSHILA DEVI             GAJENDRA SINGH           
+   69                                         163 MAHIPAL SINGH             NATHU SINGH              
+   70                                         166 MAHENDRA SINGH            NETRAM SINGH             
+   71                                         168 DEEPU                     OM PERKASH               
+   72                                         169 PERDEEP KUMAR             OM PERKASH               
+   73                                         173 SAYRA                     BUNDU KHAN               
+   74                                         177 SHAHWAAJ                  YAMIN                    
+   75                                         181 RAM CHAND SINGH           TONA                     
+   76                                         183 RAM GOPAL                 DURGA                    
+   77                                         184 SURESH SINGH              LAKRAJ SINGH             
+   78                                         185 AMAR SINGH                LAKRAJ SINGH             
+   79                                         187 KIRPAL SINGH              NETRAM                   
+   80                                         194 SHAKUNTLA                 HOMPAL SINGH             
+   81                                         198 INDARPAL SINGH            RAMESH                   
+   82                                         199 DEVRAAJ SINGH             RAMESH                   
+   83                                         202 MANOJ DEVI                SUDHEER                  
+   84                                         203 AHSAN ALI                 SAKIR ALI                
+   85                                         209 CHANDRA PAL SINGH         BHURE SINGH              
+   86                                         210 MUSTKIM                   MUSTAFA                  
+   87                                         213 NAIMA                     ISMAIL                   
+   88                                         214 NIJAMUDDIN                IMAMI                    
+   89                                         215 NOOR HASAN                MASIT                    
+   90                                         217 KYAMUDDIN                 IMAMI                    
+   91                                         218 JAI VIND                  DURGA                    
+   92                                         219 DHARM PAL                 LEKH RAJ                 
+   93                                         220 RAJ PAL SINGH             NATHU SINGH              
+   94                                         225 KAMAL SINGH               BALWANT SINGH            
+   95                                         227 KAMLESH DEVI              KARAN SINGH              
+   96                                         231 RAJNISH KUMAR             KARAN SINGH              
+   97                                         232 LAJJA WATI                VIJAY PAL SHARMA         
+   98                                         234 KHACHEDU DUTT SHARMA      RAM CHANDRA              
+   99                                         235 SAHDEV                    GAJPAL SINGH             
+  100                                         236 PUSHPA DEVI               AMAR SINGH               
+  101                                         239 ABHISHEK KUMAR            VIJENDRA SINGH           
+  102                                         240 GAJRAM SINGH              RAM KUNWAR SINGH         
+  103                                         243 AKHTAR HUSAIN             MOLLA BAKHS              
+  104                                         244 AJAY PAL SINGH            NATHU SINGH              
+  105                                         247 OMVEER SINGH              BALWANT S INGH           
+  106                                         250 MOMINA                    NOOR HASAN               
+  107                                         252 SHABIR HUSAIN             SADDIK                   
+  108                                         265 SARVESH                   SANJEEV KUMAR            
+  109                                         266 MOHIT KUMAR               KARAN SINGH              
+  110                                         268 ROOPWATI                  DALCHAND SINGH           
+  111                                         269 MADAN PAL                 LEKHRAJ SINGH            
+  112                                         275 DABLU                     ASHERAM                  
+  113                                         277 MOMINA                    IMAMI                    
+  114                                         278 SULEMAN                   REHMAN                   
+  115                                         279 BRAJPAL SINGH II          RAM KAUWAR SINGH         
+  116                                         283 PAWAN KUMARI CHAUHAN      SHAUKIN SINGH            
+  117                                         284 VIRENDAR KUMAR            JASRAM SINGH             
+  118                                         285 RAKSHPAL CHAUHAN          RAGHUVEER SIN            
+  119                                         286 ISHRAT JAHAN              SHARAFAT ALI             
+
+                                        GROWER HAS NOT FILLED SELF DECLARATION  
+   Print Date   : 10/10/2022                                                            Page No:   3                                                 
+   SOCIETY      : 320 Amroha                                                            FACTORY: 200 Seohara                                       
+==============================================================================================================
+SR        <------- V I L L A G E ------->    <---------------------- G R O W E R ----------------------> 
+NO              CODE & NAME                      CODE NAME                   FATHER
+==============================================================================================================
+  120                                         289 USHA DEVI                 HARKISHAN                
+  121                                         290 BRAHMAVATI                OMPRAASH SINGH           
+  122                                         291 ANANDPAL SINGH            BALBANT SINGH            
+  123                                         292 SEETARAM                  MOHISHIN                 
+  124                                         293 MUJAMMIL                  SAKHAVAT                 
+  125                                         294 MOOL CHAND                RAGHUVEER SINGH          
+  126                                         295 SOMPAL SINGH              JAGRAM SINGH             
+  127                                         298 VIPIN HARIKISHAN KUMAR    HARIKISHAN KUMAR         
+  128                                         300 RAJESH KUMAR              RAMCHAND SINGH           
+  129                                         301 MOHAMMAD HANIF            MANOBAR                  
+  130                                         302 VASEEM                    SHABBEER                 
+  131                                         306 BRAHAMAPAL SINGH          PARVEEN SINGH            
+  132                                         307 MAHIPAL SINGH             PARVEEN SINGH            
+  133                                         309 TASLIM                    SHABBIR                  
+  134                                         310 RAMBATI                   RAMCHANDR                
+  135                                         311 SANJAY                    RAMCHANDRA SINGH         
+  136                                         312 MANOJ KUMAR               RAMCHANDRA               
+  137                                         314 KAMAL SINGH               BHOOP SINGH              
+  138                                         315 VISHAL KUMAR              RAMCHANDRA SINGH         
+  139                                         317 SATTAR KHAN               BARKAT KUSAIN            
+  140                                         318 AJAY KUMAR AGRAVAL        RAM AUTAR AGARWAL        
+  141                                         321 HANIFA                    SABBIR                   
+  142                                         322 FAEEM                     SHABBIR                  
+  143                                         323 SOMPAL SINGH              PARVEEN SINGH            
+  144                                         324 VEER SINGH                JAGRAM                   
+  145                                         326 FURKAN                    JAMIL                    
+  146                                         331 JAGDEESH SINGH            SHOU SINGH               
+  147                                         333 JOGENDRA SINGH            RAJENDRA SINGH           
+  148                                         334 NOUNIHAL SINGH            RAJENDRA SINGH           
+  149                                         335 PAWAN KUMAR               RAJENDRA SINGH           
+  150                                         340 BHARTO DEVI               RAJENDRA SINGH           
+  151                                         341 JAYCHAND                  CHANDERPAL               
+  152                                         342 OMKARI                    CHANDERPAL               
+  153                                         347 MAHENDRA SINGH            RAM SINGH                
+  154                                         349 AASHU CHAUHAN             PRATHVIRAJ CHAUHAN       
+  155                                         350 OMPRAKASH SINGH           VIJAYPAL SINGH           
+  156                                         352 JAYVINDRA SINGH           HARVANSH SINGH           
+  157                                         356 HARKISHAN SINGH           NATTHU SINGH             
+  158                                         361 PRABHAT KUMAR             RAMPAL                   
+  159                                         366 RAMWATI                   VIJAYPAL SINGH           
+  160                                    77021862 RAJVEEV KUMAR             SHYAM SINGH              
+==============================================================================================================
+TOTAL VILLAGE WISE GROWER COUNT: 160     
+==============================================================================================================
+TOTAL       COUNT: 160     
+==============================================================================================================
